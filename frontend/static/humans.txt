@@ -1,0 +1,34 @@
+/* TEAM */
+  Created by: Franciszek "sh3kda" Dawid
+  Frontend & Architecture & UI/UX: sh3kda
+  GitHub: https://github.com/sh3kda
+
+  Student Team: Gonsior
+
+  AI & Computer Vision & Backend: GaskaPiotr
+  GitHub: https://github.com/GaskaPiotr
+
+  Data Engineering & GIS: Antoine052
+  GitHub: https://github.com/Antoine052
+
+  Organization: Gonsior
+  Community: GonsiorHack
+  GitHub Org: https://github.com/GonsiorHack
+
+/* PROJECT */
+  Project Name: czyPrzejade - trasy bez barier
+  Demo URL: https://hy-2026-woad.vercel.app/
+  Location: Kraków, Poland
+  Genesis: HackYeah Hackathon Project -> Startup
+
+/* TECH STACK */
+  Frontend: Svelte, TypeScript, Leaflet, Vite
+  Backend: Python, FastAPI
+  Machine Learning: PyTorch, MobileNetV2 (Computer Vision)
+  Spatial Data: OpenStreetMap, GeoJSON, GIS Processing
+  Hosting: Vercel
+
+/* STANDARDS & ACCESSIBILITY */
+  Focus: Digital Accessibility, Inclusive Mobility, Urban Routing
+  Language: Polish, English
+  Do Not Track: Respected
