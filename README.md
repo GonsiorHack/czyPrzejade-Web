@@ -1,6 +1,7 @@
 # czyPrzejade - trasy bez barier
 
 > Repozytorium strony, przejdź do aplikacji mobilnej: https://github.com/GonsiorHack/czyPrzejade.git
+
 > Skalowalna platforma miejskiej mikromobilności niwelująca bariery przestrzenne dla osób z ograniczoną mobilnością: użytkowników wózków manualnych i elektrycznych, seniorów oraz opiekunów z wózkami dziecięcymi. System łączy analizę wizyjną Computer Vision z dynamicznym routingiem omijającym przeszkody architektoniczne.
 
 ---
